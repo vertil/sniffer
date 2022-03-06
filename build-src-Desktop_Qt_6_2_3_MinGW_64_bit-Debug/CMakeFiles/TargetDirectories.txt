@@ -1,0 +1,3 @@
+F:/AAA/build-src-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/snif.dir
+F:/AAA/build-src-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/AAA/build-src-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
